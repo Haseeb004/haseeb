@@ -1,0 +1,5 @@
+this is same text file.
+
+git add.
+git commit -m "i have created a text file"
+git push
